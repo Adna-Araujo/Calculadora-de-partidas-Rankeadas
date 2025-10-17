@@ -27,4 +27,4 @@ let derrotas = 20;
 let saldoVitorias = CalcularSaldo (vitorias, derrotas);
 let rank = calcularRank(saldoVitorias);
 
-console.log ("O Heroi tem saldo de"+saldoVitorias+"e está no nivel"+rank);
+console.log ("O Heroi tem saldo de "+ saldoVitorias +" e está no nivel de "+ rank);
